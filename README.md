@@ -16,11 +16,13 @@ Bienvenido a mi portafolio de proyectos de ciencia de datos, donde comparto el t
 
 ### 3. Analisis de Sentimiento del Chat en vivo (Idea)
 **Descripción:** Proyecto de analisis de sentimientos de una transmisión en vivo para saber el estado de animo del chat en base a lo que escriben.
-**Tecnologías:** Por analizar
-**Técnicas:** Por analizar
+
+**Tecnologías:** Por analizar.
+**Técnicas:** Por analizar.
 
 ### 4. Generador de Contenido Brainrot 
 **Descripción:** Explorar los usos de los modelos de LLM para destruir el mundo en base a brainrots. Como parte del analisis, vamos a explorar como hacer brainrot que esten en tendencia. A partir de un texto, este convertirlo a uno traducido en brainrot.
+
 **Tecnologías:** Por analizar
 **Técnicas:** Por analizar
 
